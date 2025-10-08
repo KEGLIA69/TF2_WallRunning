@@ -29,4 +29,4 @@ It allows the player to run along walls, perform jumps, and execute acrobatic mo
 ## 📦 Installation & Running
 1. Clone the repository:
 ```bash
-git clone https://github.com/KEGLIA69/WallRunUE5.git
+git clone https://github.com/KEGLIA69/TF2_WallRunning.git
